@@ -1,3 +1,12 @@
+/*
+* File: researcherController.js
+* Author: Nagy Etelka
+* Copyright: 2025, Nagy Etelka
+* Group: Szoft II-E
+* Date: 2025-10-21
+* Github: https://github.com/ENCarina
+* Licence: MIT
+*/
 const ResearcherController = {
     index:(req, res) =>{
         res.json({

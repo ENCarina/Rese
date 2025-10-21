@@ -1,3 +1,13 @@
+/*
+* File: api.js
+* Author: Nagy Etelka
+* Copyright: 2025, Nagy Etelka
+* Group: Szoft II-E
+* Date: 2025-10-21
+* Github: https://github.com/ENCarina
+* License: MIT
+*/
+
 import Router from 'express'
 import ResearchController from '../controllers/researchController.js'
 import ResearcherController from '../controllers/researcherController.js'
